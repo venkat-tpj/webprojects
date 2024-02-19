@@ -35,7 +35,7 @@ public class zBaseClass {
 				driver=new ChromeDriver();
 				driver.manage().window().maximize();
 				driver.get("http://leaftaps.com/opentaps/");
-				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+				driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 			}
 			
 			@AfterMethod
