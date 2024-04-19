@@ -1,0 +1,10 @@
+{
+  "projectId": "play-letcode",
+  "appId": "1:329152186575:web:ced65caa5001e68d808fba",
+  "databaseURL": "https://play-letcode.firebaseio.com",
+  "storageBucket": "play-letcode.appspot.com",
+  "locationId": "us-central",
+  "authDomain": "play-letcode.firebaseapp.com",
+  "messagingSenderId": "329152186575",
+  "measurementId": "G-STHL8RV4RK"
+}

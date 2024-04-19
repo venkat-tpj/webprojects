@@ -1,0 +1,9 @@
+{
+  "name": "projects/329152186575/installations/cJb4mweTsqQrJXe9NUKedU",
+  "fid": "cJb4mweTsqQrJXe9NUKedU",
+  "refreshToken": "3_AS3qfwJHdXIQMu1gi0BE_3tM32WhqgqDxNCBd0Xt3X7OAEOoLAllI9d0H7XVS1vXbPXAi-GnyWqU1l6IUazsEErrsYZhHupqy2r3oIf9DE2oEMA",
+  "authToken": {
+    "token": "eyJhbGciOiJFUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBJZCI6IjE6MzI5MTUyMTg2NTc1OndlYjpjZWQ2NWNhYTUwMDFlNjhkODA4ZmJhIiwiZXhwIjoxNzEzMDMzNzM4LCJmaWQiOiJjSmI0bXdlVHNxUXJKWGU5TlVLZWRVIiwicHJvamVjdE51bWJlciI6MzI5MTUyMTg2NTc1fQ.AB2LPV8wRgIhALD87fQKIsuX_sZpsPpKlR6dea5vfLQatUTuZ3vOc-GgAiEA3RnovsKcE3k8tVQa8QH50rGa28ED7uq4q5Mkd5PhcBI",
+    "expiresIn": "604800s"
+  }
+}
